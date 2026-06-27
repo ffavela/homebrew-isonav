@@ -3,8 +3,8 @@ class Isonav < Formula
 
   desc "Command line nuclear reactions calculator"
   homepage "https://github.com/ffavela/isonav"
-  url "https://files.pythonhosted.org/packages/e6/cb/833f27528839b607fcfc21f71e5bd6aa73f48dc5f50194a637ad6ab513d9/isonav-1.7.1.tar.gz"
-  sha256 "f39ab2c0c70095cd71938c18e3015b804916a6d504737e54954db04840e03858"
+  url "https://files.pythonhosted.org/packages/67/92/ed10223e48e5bc3de872acf44de1f1619aecab9ef0ed799557a195e48db1/isonav-1.7.2.tar.gz"
+  sha256 "f0fada837e508bb71ac841c5f3e73822801cf9cbde9f2c4bab0ea3605deb8737"
   license "GPL-3.0-or-later"
 
   depends_on "python@3.12"
